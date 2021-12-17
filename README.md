@@ -1,4 +1,4 @@
-# Projet Pacman permettant de jouer une partie:
+  Projet Pacman permettant de jouer une partie:
  -Déplacement du pacman
 # -Déplacement des fantômes
 # -Collision du pacman avec les fantômes
